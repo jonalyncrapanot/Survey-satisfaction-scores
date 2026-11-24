@@ -4,6 +4,8 @@ A Python statistical analysis of survey-based customer satisfaction scores (120 
 
 ## Dataset
 
+Data Source: https://www.kaggle.com/datasets/salahuddinahmedshuvo/customer-satisfaction-scores-and-behavior-data?resource=download
+
 | Item | Detail |
 |---|---|
 | File | `dataset.csv` (not included in this repository, see [Data privacy](#data-privacy)) |
