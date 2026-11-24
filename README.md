@@ -8,7 +8,7 @@ Data Source: https://www.kaggle.com/datasets/salahuddinahmedshuvo/customer-satis
 
 | Item | Detail |
 |---|---|
-| File | `dataset.csv` (not included in this repository, see [Data privacy](#data-privacy)) |
+| File | `dataset.csv` |
 | Rows / columns | 120 / 10 |
 | Columns | `Customer_ID`, `Group` (A/B), `Satisfaction_Score` (1-10), `Age`, `Gender`, `Location`, `Purchase_History`, `Support_Contacted`, `Loyalty_Level`, `Satisfaction_Factor` |
 
