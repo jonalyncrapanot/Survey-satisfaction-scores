@@ -124,7 +124,3 @@ Open `Customer_Satisfaction_Report.html` in a browser. For a PDF, press `Ctrl+P`
 - **Factor analysis** was run mostly on yes/no and category variables, so treat it as exploratory. The last eigenvalue is 0 because the satisfaction-factor dummy columns add up to 1.
 - **Clusters are weak** (silhouette 0.24), so segment profiles are descriptive only.
 - **Correlation is not causation.** The `Satisfaction_Factor` is the customer's own stated main driver, not a measured cause.
-
-## Data privacy
-
-`dataset.csv` contains customer IDs and is excluded through `.gitignore`. Add it only if you are sure it is safe to share publicly.
